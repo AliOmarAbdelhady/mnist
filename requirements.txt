@@ -1,0 +1,9 @@
+# MNIST Neural Network from Scratch (simple edition) — dependencies
+# Pure-NumPy. No PyTorch / TensorFlow / sklearn.
+
+numpy>=1.24
+matplotlib>=3.7
+pandas>=2.0
+jupyter>=1.0          # notebook + jupyterlab + ipykernel
+nbformat>=5.9         # programmatic notebook generation
+gradio>=4.0           # draw-and-predict web UI

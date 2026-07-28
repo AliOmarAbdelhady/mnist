@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+
+# Data + trained weights (large / regenerable)
+data/*.csv
+models/*.npz
+models/*.json
+
+# Generated figures (regenerable)
+figures/*.png
+
+# Env
+.env
+
+# OS
+.DS_Store
